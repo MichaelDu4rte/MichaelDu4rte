@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi 👋,  I'm Michael! A passionate back-end Java student from Brazil.<br><br>- 🔭 I'm currently studying systems analysis and development at university<br><br>- 🔭 And I'm also taking a course at EBAC on JAVA SPECIALIST - BACK END<br>-⚡ I am looking for my first job opportunity. My dream is to work one day com java<br>- 📚 In my free time I like to read books and go to the gym</p>
+<p align="left">Hi 👋,  I'm Michael! A passionate back-end Java student from Brazil.<br><br>- 🔭 I'm currently studying systems analysis and development at university<br>- 🔭 And I'm also taking a course at EBAC on JAVA SPECIALIST - BACK END<br>-⚡ I am looking for my first job opportunity. My dream is to work one day com java<br>- 📚 In my free time I like to read books and go to the gym</p>
 
 ###
 
