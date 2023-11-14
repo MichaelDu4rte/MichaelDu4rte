@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+<h1 align="center">Hello Word 👋</h1>
 
 ###
 
@@ -15,10 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hello Word 👋</h1>
 
 ###
 
