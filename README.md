@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi 👋,  I'm Michael! A passionate back-end Java student from Brazil.<br><br>- 🔭 I'm currently studying systems analysis and development at university<br>- 🔭 And I'm also taking a course at EBAC on JAVA SPECIALIST - BACK END<br>-⚡ I am looking for my first job opportunity. My dream is to work one day com java<br>- 📚 In my free time I like to read books and go to the gym</p>
+<p align="left">Oi 👋,  Eu sou o Michael! Um apaixonado estudante de back-end e front-end do Brasil.<br><br>- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na universidade<br>- 🔭 E também estou fazendo curso na EBAC em BACK-END JAVA ESPECIALISTA<br> 📚 No meu tempo livre amo ler livros e ir à academia</p>
 
 ###
 
