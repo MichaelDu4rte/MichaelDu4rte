@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mim/h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
 
@@ -43,6 +43,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MichaelDu4rte/MichaelDu4rte/output/snake.svg" alt="Snake animation" />
 
-###
