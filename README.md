@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Oi 👋,  Eu sou o Michael! <br> Um apaixonado estudante de back-end e front-end do Brasil.<br><br>- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na universidade<br>- 🔭 E também estou fazendo curso na EBAC em BACK-END JAVA ESPECIALISTA<br>- 📚 No meu tempo livre amo ler livros e ir à academia</p>
+<p align="left">Oi 👋  <br> Eu sou o Michael! <br> Um apaixonado estudante de back-end e front-end do Brasil.<br><br>- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na universidade<br>- 🔭 E também estou fazendo curso na EBAC em BACK-END JAVA ESPECIALISTA<br>- 📚 No meu tempo livre amo ler livros e ir à academia</p>
 
 ###
 
