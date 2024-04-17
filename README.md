@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/mcdnly/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Me&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="michaelduarte17@proton.me" target="_blank">
+  <a href="mailto:michaelirvineduarte@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
