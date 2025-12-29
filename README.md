@@ -8,12 +8,6 @@
   />
 </p>
 
-
-<h1 align="center">Michael Duarte</h1>
-<p align="center">
-  Desenvolvedor Full Stack • Criando soluções com código limpo, visão de produto e propósito
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/michaeldu4rte/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
