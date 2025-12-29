@@ -1,7 +1,13 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/vwxYhQQ.jpeg" alt="Hello World Banner"     height="220"/>
+  <img 
+    src="https://i.imgur.com/vwxYhQQ.jpeg"
+    alt="Hello World Banner"
+    width="100%"
+    style="max-height:220px; object-fit:cover;"
+  />
 </p>
+
 
 <h1 align="center">Michael Duarte</h1>
 <p align="center">
