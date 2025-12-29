@@ -44,47 +44,12 @@ Gosto de entender o todo: produto, usuário, arquitetura e futuro da solução.
 
 ---
 
-## Tecnologias & Ferramentas
-
-**Frontend**
-- React • Next.js • Angular
-- HTML • CSS • JavaScript • TypeScript
-
-**Backend**
-- Node.js • Java • Spring
-
-**Banco de Dados**
-- PostgreSQL • MySQL
-
-**Outros**
-- Git • REST APIs • Arquitetura em camadas
-
----
-
 ## Conteúdo & Comunidade
 
 Além de programar, gosto de ensinar.  
 Já produzi conteúdos educacionais sobre programação que ultrapassam **200 mil visualizações**, com foco em ajudar outras pessoas a entrarem e evoluírem na área de tecnologia.
 
 Compartilhar conhecimento é parte do processo de aprender melhor.
-
----
-
-## GitHub em números
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelDu4rte&show_icons=true&theme=shades-of-purple&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelDu4rte&layout=compact&theme=shades-of-purple&hide_border=true" height="150"/>
-</p>
-
----
-
-## Filosofia
-
-> Código bom resolve o problema de hoje  
-> Código bem pensado continua resolvendo amanhã
-
-Estou sempre aberto a novos desafios, projetos interessantes e colaborações que façam sentido.
 
 ---
 
