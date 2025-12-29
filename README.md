@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <p align="center">
   <img 
-    src="https://i.imgur.com/vwxYhQQ.jpeg"
+    src="https://i.imgur.com/iHyWJ0A.jpeg"
     alt="Hello World Banner"
     width="100%"
     style="max-height:220px; object-fit:cover;"
@@ -52,7 +52,3 @@ Já produzi conteúdos educacionais sobre programação que ultrapassam **200 mi
 Compartilhar conhecimento é parte do processo de aprender melhor.
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MichaelDu4rte/MichaelDu4rte/output/snake.svg" alt="snake animation" />
-</p>
