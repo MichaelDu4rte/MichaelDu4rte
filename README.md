@@ -8,17 +8,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/michaeldu4rte/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Neely_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## Sobre mim
 
 Sou desenvolvedor **Full Stack**, apaixonado por transformar ideias em sistemas funcionais, escaláveis e bem pensados.  
