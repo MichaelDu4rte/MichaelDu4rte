@@ -1,59 +1,87 @@
-<h2 align="left">💜 Michael: Transformando Ideias em Código 🔥💡</h2>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/vwxYhQQ.jpeg" alt="Hello World Banner" />
+</p>
 
-###
+<h1 align="center">Michael Duarte</h1>
+<p align="center">
+  Desenvolvedor Full Stack • Criando soluções com código limpo, visão de produto e propósito
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelDu4rte&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelDu4rte&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gifv"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@Neely_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/michaeldu4rte/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://www.youtube.com/@Neely_" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+## Sobre mim
 
-<img src="https://raw.githubusercontent.com/MichaelDu4rte/MichaelDu4rte/output/snake.svg" alt="Snake animation" />
+Sou desenvolvedor **Full Stack**, apaixonado por transformar ideias em sistemas funcionais, escaláveis e bem pensados.  
+Comecei a programar ainda na adolescência, criando mods e automações para jogos, e desde então sigo em uma jornada contínua de aprendizado, construção e refinamento técnico.
 
-###
+Acredito que **programar não é só escrever código**, mas resolver problemas reais com clareza, colaboração e impacto.  
+Gosto de entender o todo: produto, usuário, arquitetura e futuro da solução.
+
+---
+
+## O que eu faço
+
+- Desenvolvimento de aplicações **web modernas**
+- Criação de **APIs robustas e escaláveis**
+- Arquitetura de sistemas com foco em manutenção e performance
+- Compartilhamento de conhecimento e conteúdo técnico
+
+---
+
+## Tecnologias & Ferramentas
+
+**Frontend**
+- React • Next.js • Angular
+- HTML • CSS • JavaScript • TypeScript
+
+**Backend**
+- Node.js • Java • Spring
+
+**Banco de Dados**
+- PostgreSQL • MySQL
+
+**Outros**
+- Git • REST APIs • Arquitetura em camadas
+
+---
+
+## Conteúdo & Comunidade
+
+Além de programar, gosto de ensinar.  
+Já produzi conteúdos educacionais sobre programação que ultrapassam **200 mil visualizações**, com foco em ajudar outras pessoas a entrarem e evoluírem na área de tecnologia.
+
+Compartilhar conhecimento é parte do processo de aprender melhor.
+
+---
+
+## GitHub em números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelDu4rte&show_icons=true&theme=shades-of-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelDu4rte&layout=compact&theme=shades-of-purple&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Filosofia
+
+> Código bom resolve o problema de hoje  
+> Código bem pensado continua resolvendo amanhã
+
+Estou sempre aberto a novos desafios, projetos interessantes e colaborações que façam sentido.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MichaelDu4rte/MichaelDu4rte/output/snake.svg" alt="snake animation" />
+</p>
