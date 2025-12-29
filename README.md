@@ -26,12 +26,3 @@ Gosto de entender o todo: produto, usuário, arquitetura e futuro da solução.
 - Compartilhamento de conhecimento e conteúdo técnico
 
 ---
-
-## Conteúdo & Comunidade
-
-Além de programar, gosto de ensinar.  
-Já produzi conteúdos educacionais sobre programação que ultrapassam **200 mil visualizações**, com foco em ajudar outras pessoas a entrarem e evoluírem na área de tecnologia.
-
-Compartilhar conhecimento é parte do processo de aprender melhor.
-
----
